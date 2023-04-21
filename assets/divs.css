@@ -8,3 +8,7 @@
 .subsection.preview {
     background-color: red;
 }
+
+.ancestor .contents{
+    background-color: aqua;
+}
