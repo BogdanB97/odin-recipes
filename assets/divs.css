@@ -1,0 +1,10 @@
+.read,
+.unread
+{
+    color:white;
+    background-color: black;
+}
+
+.subsection.preview {
+    background-color: red;
+}
